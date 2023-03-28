@@ -1,0 +1,143 @@
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.row1-red {
+  background-color: red;
+  height: 30px;
+  width: 50%;
+
+}
+.row1-blue {
+  background-color: blue;
+  height: 30px;
+  width: 50%;
+}
+.row2-green {
+    background-color: green;
+    height: 30px;
+    width: 95%;
+  }
+  .row2-blue {
+    background-color: blue;
+    height: 30px;
+    width: 5%;
+  }
+  .row3-red {
+    background-color: red;
+    height: 30px;
+    width: 5%;
+  }
+  .row3-blue {
+    background-color: blue;
+    height: 30px;
+    width: 5%;
+  }.row3-green {
+    background-color: green;
+    height: 30px;
+    width: 90%;
+  }
+  .row4-red {
+    background-color: red;
+    height: 30px;
+    width: 95%;
+  }
+  .row4-blue {
+    background-color: blue;
+    height: 30px;
+    width: 5%;
+  }
+  .row5 {
+    display: flex;
+    flex-direction: row;
+  }
+.row5-green {
+    display: flex;
+    background-color: green;
+    height: 30px;
+    width: 100%;
+}  
+.row5-red {
+    display: flex;
+    flex-direction: row;
+    margin-left: 50%;
+    align-self: center;
+    background-color: red;
+    height: 20px;
+    width: 20px;
+}
+.row6-red {
+    background-color: red;
+    height: 30px;
+    width: 100%;
+}
+.row6-blue {
+    background-color: blue;
+    height: 30px;
+    width: 5%;
+    margin-left: 48%;
+}
+.row7 {
+    display:flex;
+    flex-direction: row;
+}
+.row7-red {
+    display: flex;
+    background-color: red;
+    height: 30px;
+    width: 5%;
+}
+.row7-blue {
+    display: flex;
+    background-color: blue;
+    height: 30px;
+    width: 95%;
+}
+.row7-green {
+    background-color: green;
+    height: 10px;
+    width: 100%;
+    margin-top: 10px;
+}
+.row8 {
+    display: flex;
+    flex-direction: row;
+}
+
+.row8-orange1 {
+    display: flex;
+    flex-direction: row;;
+    background-color: orange;
+    height: 30px;
+    width: 5%;
+}
+.row8-2 {
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    height: 30px;
+}
+.row8-orange {
+    background-color: orange;
+    height: 30px;
+    width: 5%;
+}
+.row8-green {
+    background-color: green;
+    height: 30px;
+    width: 20%;
+}
+.row9 {
+    display: flex;
+    flex-direction: row;
+}
+.row9-orange {
+    background-color: orange;
+    height: 30px;
+    width: 33%;
+}
+.row9-green {
+    background-color: green;
+    height: 30px;
+    width: 2%;
+}
